@@ -1,0 +1,7 @@
+<svg id="figma" xmlns="http://www.w3.org/2000/svg" width="200" height="300" viewBox="0 0 200 300">
+  <path id="path0_fill" d="M50,300a50.018,50.018,0,0,0,50-50V200H50a50,50,0,0,0,0,100Z" fill="#0acf83"/>
+  <path id="path1_fill" d="M0,150a50.018,50.018,0,0,1,50-50h50V200H50A50.018,50.018,0,0,1,0,150Z" fill="#a259ff"/>
+  <path id="path1_fill_1_" d="M0,50A50.018,50.018,0,0,1,50,0h50V100H50A50.018,50.018,0,0,1,0,50Z" fill="#f24e1e"/>
+  <path id="path2_fill" d="M100,0h50a50,50,0,0,1,0,100H100Z" fill="#ff7262"/>
+  <path id="path3_fill" d="M200,150a50,50,0,1,1-50-50A50.018,50.018,0,0,1,200,150Z" fill="#1abcfe"/>
+</svg>
