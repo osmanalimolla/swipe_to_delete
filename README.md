@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-Demo Project Video: https://www.instagram.com/p/C0mswh0tfYO/
+Demo Project Video: https://www.instagram.com/p/C1Pws6XtgjK/
 
 ## Getting Started
 
